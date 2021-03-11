@@ -1,0 +1,321 @@
+[{
+    "id": 0,
+    "project_number": 675023,
+    "name": "Oceanic Airlines Navigation System",
+    "periods": [{
+        "id": 200,
+        "start": 1107216000000,
+        "end": 1170288000000
+    }],
+    "markers": [{
+        "value": 1109635200000,
+        "type": "diagonalCross",
+        "fill": "#0288d1 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1112313600000,
+        "type": "star4",
+        "fill": "#0d47a1 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1154390400000,
+        "type": "diamond",
+        "fill": "#ba68c8 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1164931200000,
+        "type": "line",
+        "fill": "#880e4f 0.6",
+        "stroke": "none"
+    }, {
+        "value": 1167609600000,
+        "type": "star5",
+        "fill": "#0d47a1 0.6",
+        "stroke": "none"
+    }, {
+        "value": 1170288000000,
+        "type": "triangleDown",
+        "fill": "#5d41b5",
+        "stroke": "none"
+    }]
+}, {
+    "id": 1,
+    "project_number": 675039,
+    "name": "GPS-AVU",
+    "periods": [{
+        "id": 201,
+        "start": 1138752000000,
+        "end": 1233446400000
+    }],
+    "markers": [{
+        "value": 1141171200000,
+        "type": "diagonalCross",
+        "fill": "#0288d1 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1143849600000,
+        "type": "star4",
+        "fill": "#0d47a1 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1217548800000,
+        "type": "diamond",
+        "fill": "#ba68c8 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1196467200000,
+        "type": "line",
+        "fill": "#880e4f 0.6",
+        "stroke": "none"
+    }, {
+        "value": 1233446400000,
+        "type": "star5",
+        "fill": "#0d47a1 0.6",
+        "stroke": "none"
+    }, {
+        "value": 1235865600000,
+        "type": "triangleDown",
+        "fill": "#5d41b5",
+        "stroke": "none"
+    }]
+}, {
+    "id": 2,
+    "project_number": 675056,
+    "name": "Henry Lavina Portal",
+    "periods": [{
+        "id": 202,
+        "start": 1107216000000,
+        "end": 1264982400000
+    }],
+    "markers": [{
+        "value": 1109635200000,
+        "type": "diagonalCross",
+        "fill": "#0288d1 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1122854400000,
+        "type": "star4",
+        "fill": "#0d47a1 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1191196800000,
+        "type": "diamond",
+        "fill": "#ba68c8 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1243814400000,
+        "type": "line",
+        "fill": "#880e4f 0.6",
+        "stroke": "none"
+    }, {
+        "value": 1262304000000,
+        "type": "star5",
+        "fill": "#0d47a1 0.6",
+        "stroke": "none"
+    }, {
+        "value": 1264982400000,
+        "type": "triangleDown",
+        "fill": "#5d41b5",
+        "stroke": "none"
+    }]
+}, {
+    "id": 3,
+    "project_number": 675062,
+    "name": "Project \"Connection\"",
+    "periods": [{
+        "id": 203,
+        "start": 1201824000000,
+        "end": 1264982400000
+    }],
+    "markers": [{
+        "value": 1204329600000,
+        "type": "diagonalCross",
+        "fill": "#0288d1 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1207008000000,
+        "type": "star4",
+        "fill": "#0d47a1 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1217548800000,
+        "type": "diamond",
+        "fill": "#ba68c8 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1257033600000,
+        "type": "line",
+        "fill": "#880e4f 0.6",
+        "stroke": "none"
+    }, {
+        "value": 1259625600000,
+        "type": "star5",
+        "fill": "#0d47a1 0.6",
+        "stroke": "none"
+    }, {
+        "value": 1264982400000,
+        "type": "triangleDown",
+        "fill": "#5d41b5",
+        "stroke": "none"
+    }]
+}, {
+    "id": 4,
+    "project_number": 675071,
+    "name": "M-2 Modernization",
+    "periods": [{
+        "id": 204,
+        "start": 1170288000000,
+        "end": 1233446400000
+    }],
+    "markers": [{
+        "value": 1172707200000,
+        "type": "diagonalCross",
+        "fill": "#0288d1 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1175385600000,
+        "type": "star4",
+        "fill": "#0d47a1 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1217548800000,
+        "type": "diamond",
+        "fill": "#ba68c8 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1228089600000,
+        "type": "line",
+        "fill": "#880e4f 0.6",
+        "stroke": "none"
+    }, {
+        "value": 1230768000000,
+        "type": "star5",
+        "fill": "#0d47a1 0.6",
+        "stroke": "none"
+    }, {
+        "value": 1233446400000,
+        "type": "triangleDown",
+        "fill": "#5d41b5",
+        "stroke": "none"
+    }]
+}, {
+    "id": 5,
+    "project_number": 675073,
+    "name": "Kaldor City Health Care",
+    "periods": [{
+        "id": 205,
+        "start": 1107216000000,
+        "end": 1201824000000
+    }],
+    "markers": [{
+        "value": 1114905600000,
+        "type": "diagonalCross",
+        "fill": "#0288d1 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1122854400000,
+        "type": "star4",
+        "fill": "#0d47a1 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1167609600000,
+        "type": "diamond",
+        "fill": "#ba68c8 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1193875200000,
+        "type": "line",
+        "fill": "#880e4f 0.6",
+        "stroke": "none"
+    }, {
+        "value": 1199145600000,
+        "type": "star5",
+        "fill": "#0d47a1 0.6",
+        "stroke": "none"
+    }, {
+        "value": 1201824000000,
+        "type": "triangleDown",
+        "fill": "#5d41b5",
+        "stroke": "none"
+    }]
+}, {
+    "id": 6,
+    "project_number": 675078,
+    "name": "Internal Report System",
+    "periods": [{
+        "id": 206,
+        "start": 1170288000000,
+        "end": 1201824000000
+    }],
+    "markers": [{
+        "value": 1172707200000,
+        "type": "diagonalCross",
+        "fill": "#0288d1 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1175385600000,
+        "type": "star4",
+        "fill": "#0d47a1 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1185926400000,
+        "type": "diamond",
+        "fill": "#ba68c8 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1196467200000,
+        "type": "line",
+        "fill": "#880e4f 0.6",
+        "stroke": "none"
+    }, {
+        "value": 1199145600000,
+        "type": "star5",
+        "fill": "#0d47a1 0.6",
+        "stroke": "none"
+    }, {
+        "value": 1201824000000,
+        "type": "triangleDown",
+        "fill": "#5d41b5",
+        "stroke": "none"
+    }]
+}, {
+    "id": 7,
+    "project_number": 675082,
+    "name": "Elwood City",
+    "periods": [{
+        "id": 207,
+        "start": 1138752000000,
+        "end": 1170288000000
+    }],
+    "markers": [{
+        "value": 1141171200000,
+        "type": "diagonalCross",
+        "fill": "#0288d1 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1143849600000,
+        "type": "star4",
+        "fill": "#0d47a1 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1159660800000,
+        "type": "diamond",
+        "fill": "#ba68c8 0.7",
+        "stroke": "none"
+    }, {
+        "value": 1164931200000,
+        "type": "line",
+        "fill": "#880e4f 0.6",
+        "stroke": "none"
+    }, {
+        "value": 1167609600000,
+        "type": "star5",
+        "fill": "#0d47a1 0.6",
+        "stroke": "none"
+    }, {
+        "value": 1170288000000,
+        "type": "triangleDown",
+        "fill": "#5d41b5",
+        "stroke": "none"
+    }]
+}]
